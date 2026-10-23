@@ -88,4 +88,4 @@ Domestic kitchens, restaurants and canteens, hostels, LPG storage points, small 
 
 ## Author
 
-Payyavula Madhuri, Department of Electronics and Communication Engineering, Mohan Babu University, Tirupati, Andhra Pradesh
+Konduru Mounika, Department of Electronics and Communication Engineering, Mohan Babu University, Tirupati, Andhra Pradesh
